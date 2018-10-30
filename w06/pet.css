@@ -1,42 +1,42 @@
-body {
+ {
     font-family: sans-serif;
 }
 
-header {
+#pet header {
     width: 800px;
     height: 80px;
     background-color: #330000;
 }
 
-h1#text1 {
+#pet h1#text1 {
     position: absolute;
     color: #FF0000;
     margin-top: 15px;
     margin-left: 50px;
 }
 
-h1#text2 {
+#pet h1#text2 {
     position: absolute;
     color: #FFFFFF;
     margin-top: 30px;
     margin-left: 150px;
 }
 
-aside {
+#pet aside {
     width: 170px;
     height: 400px;
     background-image: url(images/bg_lt.png);
     float: left;
 }
 
-article {
+#pet article {
     width: 628px;
     height: 400px;
     margin-left: 171px;
     background-color: white;
 }
 
-footer {
+#pet footer {
     width: 800px;
     height: 50px;
     background-color: #330000;
@@ -45,16 +45,16 @@ footer {
     line-height: 50px;
 }
 
-nav {
+#pet nav {
     margin-top: 170px;
 }
 
-nav ul {
+#pet nav ul {
     padding: 10px;
     list-style: none;
 }
 
-nav ul li a {
+#pet nav ul li a {
     display: block;
     width: 150px;
     height: 42px;
@@ -63,27 +63,25 @@ nav ul li a {
     line-height: 35px;
 }
 
-nav ul li a:hover {
+#pet nav ul li a:hover {
     background-image: url(btn_hover.png);
     color: white;
 }
 
-img {
+#pet img {
     width: 120px;
     margin: 3px;
     border-radius: 10px;
 }
 
-.consection {
+#pet .consection {
     width: 400px;
     margin: 0px auto;
     padding: 20px;
 }
-
-fieldset {
+#pet fieldset {
     border-radius: 10px;
 }
 
-fieldset legend {
+#pet fieldset legend {
     text-align: center;
-}
