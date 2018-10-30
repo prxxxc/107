@@ -18,6 +18,11 @@
 - [ttt.html](https://github.com/prxxxc/107/blob/master/w04/ttt.html)
 ## w05
 - [*imagegallery.html*](https://github.com/prxxxc/107/blob/master/w05/imagegallery.html)
+## w06
+- [pet.css](https://github.com/prxxxc/107/blob/master/w06/pet.css)
+-[pet.html](https://github.com/prxxxc/107/blob/master/w06/pet.html)
+## w07
+-[GalleryTemplete.html](https://github.com/prxxxc/107/blob/master/w07/GalleryTemplete.html)
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNzYxMzg3ODQsODI4MTYxMTU4LDk5NTEyNT
 QwM119
