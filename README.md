@@ -23,6 +23,11 @@
 - [pet.html](https://github.com/prxxxc/107/blob/master/w06/pet.html)
 ## w07
 - [GalleryTemplete.html](https://github.com/prxxxc/107/blob/master/w07/GalleryTemplete.html)
+- [tkuassign.html](https://github.com/prxxxc/107/blob/master/w07/tkuassign.html)
+## w08
+- [index.html](https://github.com/prxxxc/107/blob/master/w08/index.html)
+- [test1.html](https://github.com/prxxxc/107/blob/master/w08/test1.html)
+- [test2.html](https://github.com/prxxxc/107/blob/master/w08/test2.html)
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNzYxMzg3ODQsODI4MTYxMTU4LDk5NTEyNT
 QwM119
